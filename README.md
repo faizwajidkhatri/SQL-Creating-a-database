@@ -1,2 +1,3 @@
 # SQL-Project
-Create a Database Schema and Table Relationships 
+Create a Database Schema and Table Relationships for a 
+Logistic Company's Data 
